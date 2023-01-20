@@ -1,4 +1,6 @@
-### Hi there 👋
+### toki a! 👋
+
+mi lon <a rel="me" href="https://tacobelllabs.net/@alison">linluwi pi soweli suli</a> kin
 
 <!--
 **alis0nc/alis0nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
