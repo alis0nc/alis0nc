@@ -2,7 +2,7 @@
 
 - name: Alison Withonel
 - languages: english, español, toki pona
-- elsewhere: <a rel="me" href="https://tacobelllabs.net/@alison">mastodon</a>, `@Withonel#1996` on Discord
+- elsewhere: <a rel="me" href="https://tacobelllabs.net/@alison">mastodon</a>, `@withonel` on Discord
 
 <!--
 **alis0nc/alis0nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
