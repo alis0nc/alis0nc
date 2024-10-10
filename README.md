@@ -1,7 +1,7 @@
 ### toki a! 👋
 
 - name: Alison Withonel
-- languages: english, español, toki pona
+- languages: english, español, toki pona, esperanto
 - languages (programming): typescript, python, ruby (kinda)
 - elsewhere: <a rel="me" href="https://tacobelllabs.net/@alison">mastodon</a>, `@withonel` on Discord
 
